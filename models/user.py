@@ -1,3 +1,5 @@
+'''module importation'''
+from models.base_model2 import BaseModel
 #!/usr/bin/python3
 """
 User Module
